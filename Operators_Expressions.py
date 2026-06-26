@@ -66,8 +66,8 @@ print(result * 10)
 
 #9 Write a program that uses and & or operators to check multiple conditions.
 print("Write a program that uses and & or operators to check multiple conditions.")
-value1=5
-value2=10
+value1=int(input("Enter a number:"))
+value2=int(input("Enter a number:"))
 print(value1>0 and value2>0)
 print(value1>0 or value2<0)
 
