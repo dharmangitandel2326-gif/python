@@ -108,3 +108,5 @@ print(matrix[1][2])
 print("Count how many times an element appears in a list.")
 num2=[1,2,3,2,4,5,6,2,7,8,9]
 print(num2.count(2))
+
+#Contribution test
